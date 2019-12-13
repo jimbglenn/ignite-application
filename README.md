@@ -4,6 +4,9 @@ Author: James Glenn
 
 Date: 12/12/2019
 
+## Demo
+Demo available at http://jimbglenn.github.io/ignite-application
+
 ## Available Scripts
 
 In the project directory, you can run:
