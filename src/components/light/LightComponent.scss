@@ -1,0 +1,15 @@
+.light {
+  height: 25px;
+  width: 25px;
+  border-radius: 50%;
+  border: 2px solid darkslateblue;
+  margin: auto;
+
+  &.lightOn {
+    background-color: yellow;
+  }
+
+  &.lightOff {
+    background-color: lightgray;
+  }
+}

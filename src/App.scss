@@ -1,0 +1,18 @@
+.application {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-grow: 1;
+  flex-direction: row;
+  margin: 0;
+
+  .leftContent {
+    width: 15%;
+    height: 100%;
+  }
+
+  .rightContent {
+    width: 85%;
+    height: 100%;
+  }
+}
